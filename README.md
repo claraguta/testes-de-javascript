@@ -1,4 +1,4 @@
-#Exercícios em sala de aula
+# Exercícios em sala de aula
 
 Exercícios que foram passados pela prof. Simara na segunda semana de aula do programa Todas em Tech da [Reprograma](https://github.com/reprograma/On16-TodasEmTech-S2-Logica-1)
 
